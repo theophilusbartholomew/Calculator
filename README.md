@@ -1,4 +1,4 @@
-# Calculator
+#  Tty - Calculator
 A simple tty calculator that can handle operations related to two numbers.
 For Eg : 2+2 =4 , 3*2=6 etc.
 To use it just download the Calculator.java file and run it on your terminal using "java Calculator.java" .
